@@ -33,7 +33,8 @@ Added some options like : buying prodiucts from cash or society account, taking 
 **Installation Instructions:**
 1. **Drag and Drop:** Move the provided scripts into your FiveM resources folder.
 2. **Configuration:** Edit the `Config` and `Businesses` files to customize your restaurants, warehouses, and business settings.
-3. **Server Configuration:** Add the resource to your `server.cfg` file to ensure it loads properly.
+3. **ADD SQL TO YOUR DATABASE** located in [install] folder
+4. **Server Configuration:** Add the resource to your `server.cfg` file to ensure it loads properly.
 
 **Script Requirements:**
 1. ox_target
